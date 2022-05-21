@@ -17,7 +17,7 @@ while True:
 b=max(a)
 c= min(a)
 print("Maximum", b)
-print("Minmum", c)'''
+print("Minimum", c)'''
 
 #*************************************************
 
